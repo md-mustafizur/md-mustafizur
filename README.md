@@ -1,12 +1,12 @@
 # Hi there, I'm Mustafizur Rohman 👋
 
-### AI Automation & n8n Workflow Developer
-
 <p align="left">
   <a href="https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+### AI Automation & n8n Workflow Developer
 
 ---
 
@@ -16,7 +16,7 @@ I am an aspiring **AI Automation & n8n Workflow Developer** focused on building 
 
 * **Currently Learning:** AI Agents, n8n Workflow Automation, and RAG Systems.
 * **Core Skills:** Workflow Automation, API Integration, Webhooks, Lead Processing, and AI-powered Customer Support.
-* **Goal:** Help businesses reduce repetitive work through intelligent automation and reliable workflows.
+* **Career Goal:** Help businesses reduce repetitive work through intelligent automation.
 
 ---
 
@@ -27,8 +27,8 @@ I am an aspiring **AI Automation & n8n Workflow Developer** focused on building 
     <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://platform.openai.com/">
-    <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI API" />
+  <a href="https://openai.com/">
+    <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" />
   </a>
   &nbsp;&nbsp;
   <a href="https://supabase.com/">
@@ -52,7 +52,7 @@ I am an aspiring **AI Automation & n8n Workflow Developer** focused on building 
 
 An AI-powered customer support workflow designed to retrieve relevant information from a knowledge base and generate context-aware responses.
 
-**Technologies:** n8n · Supabase Vector Store · AI Models · Gmail API
+**Technologies:** n8n · Supabase Vector Store · AI Models · Gmail
 
 **Key Features**
 
@@ -61,7 +61,7 @@ An AI-powered customer support workflow designed to retrieve relevant informatio
 * AI-generated responses based on retrieved context.
 * Email integration for customer support workflows.
 
-**Project Repository:** [View on GitHub](https://github.com/mustafizur69756-web)
+**Project Repository:** [View my GitHub repositories](https://github.com/mustafizur69756-web)
 
 ---
 
@@ -79,7 +79,7 @@ An AI-powered customer support workflow designed to retrieve relevant informatio
 
 ## Let's Connect
 
-I'm interested in AI automation projects, workflow optimization, and opportunities to learn and collaborate with businesses.
+I'm interested in AI automation projects, workflow optimization, and opportunities to collaborate with businesses.
 
 * **LinkedIn:** [Connect with me](https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/)
 * **GitHub:** [View my repositories](https://github.com/mustafizur69756-web)
