@@ -20,7 +20,7 @@ I am a dedicated **AI Automation & n8n Workflow Developer** with a passion for d
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="n8n.png" width="48" height="48" alt="n8n" /><br />
+      <img src="[n8n.png](https://cdn.sanity.io/images/8ly2m84z/production-2025/475094fe3f31f631fa34bad847bc5ed6fb0c4d02-960x720.png?w=960&h=720&fit=max&auto=format)" width="48" height="48" alt="n8n" /><br />
       <sub><b>n8n</b></sub>
     </td>
     <td align="center" width="110">
