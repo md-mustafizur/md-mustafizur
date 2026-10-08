@@ -28,7 +28,7 @@ I am an aspiring **AI Automation & n8n Workflow Developer** focused on building 
   </a>
   &nbsp;&nbsp;
   <a href="https://openai.com/">
-    <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="48" height="48" alt="OpenAI" />
   </a>
   &nbsp;&nbsp;
   <a href="https://supabase.com/">
