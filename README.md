@@ -1,14 +1,5 @@
 # Hi there, I'm Mustafizur Rohman 👋
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mustafizurrohman834@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
-
 ### About Me
 I am a dedicated **AI Automation & n8n Workflow Developer** with a passion for designing smart systems, integrating advanced APIs, and building autonomous AI agents. I specialize in streamlining operations and eliminating manual workflows using low-code/no-code ecosystems.
 
@@ -23,23 +14,23 @@ I am a dedicated **AI Automation & n8n Workflow Developer** with a passion for d
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="n8n" /><br />
+      <img src="https://githubusercontent.com" onerror="this.src='https://squarespace-cdn.com'" width="48" height="48" alt="n8n" /><br />
       <sub><b>n8n</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="OpenAI" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="OpenAI" /><br />
       <sub><b>OpenAI API</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="Supabase" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="Supabase" /><br />
       <sub><b>Supabase</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="JavaScript" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="JavaScript" /><br />
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="Git" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="Git" /><br />
       <sub><b>Git</b></sub>
     </td>
   </tr>
