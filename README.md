@@ -1,8 +1,11 @@
 # Hi there, I'm Mustafizur Rohman 👋
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="linkedin.png" width="130" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mustafizurrohman834@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
   </a>
 </p>
 
@@ -20,23 +23,23 @@ I am a dedicated **AI Automation & n8n Workflow Developer** with a passion for d
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="[n8n.png]" width="48" height="48" alt="n8n" /><br />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="n8n" /><br />
       <sub><b>n8n</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="openai.png" width="48" height="48" alt="OpenAI API" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="OpenAI API" /><br />
       <sub><b>OpenAI API</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="supabase.png" width="48" height="48" alt="Supabase" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="Supabase" /><br />
       <sub><b>Supabase</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="javascript.png" width="48" height="48" alt="JavaScript" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="JavaScript" /><br />
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="git.png" width="48" height="48" alt="Git" /><br />
+      <img src="https://githubusercontent.com" width="48" height="48" alt="Git" /><br />
       <sub><b>Git</b></sub>
     </td>
   </tr>
@@ -53,7 +56,12 @@ An intelligent, context-aware customer support ecosystem driven by **Retrieval-A
 
 ---
 
+### GitHub Activity & Stats
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" width="400"/>
+</p>
+
 ### Let's Collaborate!
 Looking to automate repetitive tasks, scale your lead validation, or deploy highly efficient AI Agents? Let's connect and build something smart together!
-- **LinkedIn:** [md-mostafizur-ro](https://linkedin.com)
-- **Email:** [mustafizurrohman834@gmail.com](mailto:mustafizurrohman834@gmail.com)
+- **LinkedIn:** [md-mustafizur-rohman-19b9163b5](https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/)
+- **Email:** mustafizurrohman834@gmail.com
