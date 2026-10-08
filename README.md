@@ -23,23 +23,24 @@ I am a dedicated **AI Automation & n8n Workflow Developer** with a passion for d
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="n8n" /><br />
+      <img src="![n8n](https://jsdelivr.net)" width="48" height="48" alt="n8n" /><br />
       <sub><b>n8n</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="OpenAI API" /><br />
+      <img src="![OpenAI](https://githubusercontent.com)" width="48" height="48" alt="OpenAI API" /><br />
       <sub><b>OpenAI API</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Supabase" /><br />
+      <img src="![Supabase](https://githubusercontent.com)" width="48" height="48" alt="Supabase" /><br />
       <sub><b>Supabase</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="JavaScript" /><br />
+      <img src="• ![JavaScript](https://githubusercontent.com)
+" width="48" height="48" alt="JavaScript" /><br />
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Git" /><br />
+      <img src="![Git](https://githubusercontent.com)" width="48" height="48" alt="Git" /><br />
       <sub><b>Git</b></sub>
     </td>
   </tr>
