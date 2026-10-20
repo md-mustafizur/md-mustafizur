@@ -76,18 +76,6 @@ An AI-powered customer support workflow designed to retrieve relevant informatio
 
 ---
 
-## GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-mustafizur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Statistics" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mustafizur&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
 ## Let's Connect
 
 I'm interested in AI automation projects, workflow optimization, and opportunities to collaborate with businesses.
