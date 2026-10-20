@@ -27,10 +27,6 @@ I am an aspiring **AI Automation & n8n Workflow Developer** focused on building 
     <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://openai.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="48" height="48" alt="OpenAI" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://supabase.com/">
     <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="48" height="48" alt="Supabase" />
   </a>
@@ -44,9 +40,24 @@ I am an aspiring **AI Automation & n8n Workflow Developer** focused on building 
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge" alt="Telegram" />
+</p>
+
 ---
 
-## Featured Project
+## Featured Projects
+
+### n8n Gmail AI Email Triage
+
+An AI workflow that classifies incoming emails into seven categories, applies Gmail labels, saves suggested replies as drafts (it never sends emails), and sends a Telegram alert for urgent messages.
+
+**Technologies:** n8n · Gmail · Google Gemini · Telegram
+
+**Links:** [GitHub repository](https://github.com/md-mustafizur/n8n-gmail-ai-email-triage) · [Video demo on LinkedIn](https://lnkd.in/p/gwy7K7bZ)
 
 ### RAG Customer Support AI Agent
 
@@ -61,18 +72,18 @@ An AI-powered customer support workflow designed to retrieve relevant informatio
 * AI-generated responses based on retrieved context.
 * Email integration for customer support workflows.
 
-**Project Repository:** [View my GitHub repositories](https://github.com/mustafizur69756-web)
+**Project Repository:** [View my GitHub repositories](https://github.com/md-mustafizur)
 
 ---
 
 ## GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafizur69756-web&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-mustafizur&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Statistics" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafizur69756-web&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mustafizur&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
@@ -82,5 +93,5 @@ An AI-powered customer support workflow designed to retrieve relevant informatio
 I'm interested in AI automation projects, workflow optimization, and opportunities to collaborate with businesses.
 
 * **LinkedIn:** [Connect with me](https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/)
-* **GitHub:** [View my repositories](https://github.com/mustafizur69756-web)
+* **GitHub:** [View my repositories](https://github.com/md-mustafizur)
 * **Email:** [mustafizurrohman834@gmail.com](mailto:mustafizurrohman834@gmail.com)
