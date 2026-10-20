@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am an aspiring **AI Automation & n8n Workflow Developer** focused on building practical automation systems, integrating APIs, and developing AI-powered workflows.
+I am an **AI Automation Engineer** focused on building practical automation systems, integrating APIs, and developing AI-powered workflows.
 
 * **Currently Learning:** AI Agents, n8n Workflow Automation, and RAG Systems.
 * **Core Skills:** Workflow Automation, API Integration, Webhooks, Lead Processing, and AI-powered Customer Support.
