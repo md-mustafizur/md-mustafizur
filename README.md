@@ -31,7 +31,7 @@ I am an **AI Automation Engineer** focused on building practical automation syst
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
   &nbsp;&nbsp;
-  <img src="[কপি করা raw ঠিকানা](https://apify.com/img/apify-logo/apify-symbol-200x200.svg?download=1)" width="48" height="48" alt="Apify" />
+  <img src="https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTphN2Y2YjYzZDk4MzY3NDQ3OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAyZTIwMWEwMzM2ODowMDA2NWVlMzdlZjMxYjFmEAIYASIKaW1hZ2UvanBlZw==" width="48" height="48" alt="Apify" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlesheets" width="48" height="48" alt="Google Sheets" />
   &nbsp;&nbsp;
