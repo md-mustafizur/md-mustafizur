@@ -31,7 +31,7 @@ I am an **AI Automation Engineer** focused on building practical automation syst
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apify" width="48" height="48" alt="Apify" />
+  <img src="apify.jpg" width="48" height="48" alt="Apify" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlesheets" width="48" height="48" alt="Google Sheets" />
   &nbsp;&nbsp;
