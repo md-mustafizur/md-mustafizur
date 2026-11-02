@@ -1,52 +1,70 @@
-# Hi there, I'm Mustafizur Rohman 👋
+<p align="center">
+  <img src="banner.png.png" alt="Mustafizur Rohman - AI Automation Engineer banner" width="100%" />
+</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:mustafizurrohman834@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/md-mustafizur">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-### AI Automation & n8n Workflow Developer
+### AI Automation & n8n Workflow Engineer
 
 ---
 
 ## About Me
 
-I am an **AI Automation Engineer** focused on building practical automation systems, integrating APIs, and developing AI-powered workflows.
+I am an **AI Automation Engineer** who builds workflow automations connecting APIs, AI agents, and business tools, so teams spend less time on repetitive work.
 
-* **Currently Learning:** AI Agents, n8n Workflow Automation, and RAG Systems.
-* **Core Skills:** Workflow Automation, API Integration, Webhooks, Lead Processing, and AI-powered Customer Support.
-* **Career Goal:** Help businesses reduce repetitive work through intelligent automation.
+* **Currently building:** Voice AI agents, RAG-based assistants, and lead generation workflows
+* **Core skills:** n8n, REST APIs, Webhooks, JSON, Supabase, AI Agents
+* **Goal:** Help businesses reduce manual work through reliable, practical automation
+
+---
+
+## Skills & Experience
+
+**Automation & Integrations:** n8n · make.com · APIs & Webhooks · MCP & Advanced Agents · Go High Level (GHL)
+
+**AI Agents & Voice:** Voice & Data Agents · Retell AI (Voice Agent) · Claude MCP & Claude Code · Claude Skills & Connectors · Claude for Automation & Client Work
+
+**Data & Knowledge:** RAG & Vector Databases · Data Fundamentals & Transformation · Web Scraping & Lead Generation
+
+**Projects Explored:** Stock Analysis Agent (data-driven) · YouTube Automation
 
 ---
 
 ## Tech Stack & Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="48" height="48" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" height="40" alt="Supabase" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTphN2Y2YjYzZDk4MzY3NDQ3OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAyZTIwMWEwMzM2ODowMDA2NWVlMzdlZjMxYjFmEAIYASIKaW1hZ2UvanBlZw==" width="48" height="48" alt="Apify" />
+  <img src="https://cdn.simpleicons.org/googlesheets" width="40" height="40" alt="Google Sheets" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlesheets" width="48" height="48" alt="Google Sheets" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge" alt="Gmail" />
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge" alt="Telegram" />
   <img src="https://img.shields.io/badge/Apify-97D700?style=for-the-badge" alt="Apify" />
   <img src="https://img.shields.io/badge/Serper-1F2937?style=for-the-badge" alt="Serper" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Retell%20AI-6B46C1?style=for-the-badge" alt="Retell AI" />
+  <img src="https://img.shields.io/badge/make.com-6D00CC?style=for-the-badge" alt="make.com" />
 </p>
 
 ---
@@ -71,16 +89,16 @@ An AI workflow that classifies incoming emails into seven categories, applies Gm
 
 ### RAG Customer Support AI Agent
 
-An AI-powered customer support workflow designed to retrieve relevant information from a knowledge base and generate context-aware responses.
+An AI-powered customer support workflow that retrieves relevant information from a knowledge base and generates context-aware responses.
 
 **Technologies:** n8n · Supabase Vector Store · AI Models · Gmail
 
 **Key Features**
 
-* Automated workflow execution using n8n.
-* Semantic document search using vector embeddings.
-* AI-generated responses based on retrieved context.
-* Email integration for customer support workflows.
+* Automated workflow execution using n8n
+* Semantic document search using vector embeddings
+* AI-generated responses based on retrieved context
+* Email integration for customer support workflows
 
 **Project Repository:** [View my GitHub repositories](https://github.com/md-mustafizur)
 
@@ -93,3 +111,4 @@ I'm interested in AI automation projects, workflow optimization, and opportuniti
 * **LinkedIn:** [Connect with me](https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/)
 * **GitHub:** [View my repositories](https://github.com/md-mustafizur)
 * **Email:** [mustafizurrohman834@gmail.com](mailto:mustafizurrohman834@gmail.com)
+<!-- Upwork / Fiverr: add link here once you have the profile URL -->
