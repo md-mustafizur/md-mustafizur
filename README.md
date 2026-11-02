@@ -111,4 +111,5 @@ I'm interested in AI automation projects, workflow optimization, and opportuniti
 * **LinkedIn:** [Connect with me](https://linkedin.com/in/md-mustafizur-rohman-19b9163b5/)
 * **GitHub:** [View my repositories](https://github.com/md-mustafizur)
 * **Email:** [mustafizurrohman834@gmail.com](mailto:mustafizurrohman834@gmail.com)
-<!-- Upwork / Fiverr: add link here once you have the profile URL -->
+* **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01d190e9ccc24b9828)
+* **Fiverr:** [Order on Fiverr](https://www.fiverr.com/s/GPlP0W3)
